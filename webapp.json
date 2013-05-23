@@ -4,8 +4,8 @@
   "description": "O maior e mais acessado site de tecnologia do Brasil, segundo a comScore, com notícias, artigos exclusivos e análise dos principais lançamentos de produtos eletrônicos.",
   "launch_path": "http://www.tecmundo.com.br/m/",
   "icons": {
-    "60": "/tec60.png",
-    "128": "/tec128.png"
+    "60": "/images/tec60.png",
+    "128": "/images/tec128.png"
   },
   "developer": {
     "name": "No Zebra Network Ltda",
