@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "name": "Tecmundo",
+  "description": "O maior e mais acessado site de tecnologia do Brasil, segundo a comScore, com notícias, artigos exclusivos e análise dos principais lançamentos de produtos eletrônicos.",
+  "launch_path": "/index.html",
+  "icons": {
+    "60": "/images/tec60.png",
+    "128": "/images/tec128.png"
+  },
+  "developer": {
+    "name": "No Zebra Network Ltda",
+    "url": "http://www.gruponzn.com/"
+  },
+  "installs_allowed_from": ["*"],
+  "appcache_path": "/cache.manifest",
+  "default_locale": "pt-BR"
+}
